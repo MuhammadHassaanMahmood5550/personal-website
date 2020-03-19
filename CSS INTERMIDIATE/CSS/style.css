@@ -1,0 +1,126 @@
+body{
+text-align: center;
+margin-top: 0;
+font-family: 'Merriweather', serif;
+}
+
+h1{
+ font-family: 'Sacramento', cursive;
+ font-size: 4.625rem;
+ margin: 70px auto 0 auto;
+ color: #66BFBF;
+ line-height: 1.5;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.7rem;
+   color: #66BFBF;
+   font-weight: bold;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.top{
+  position: relative;
+  background-color: #e4f9f5;
+  padding-top: 35px;
+}
+.cloud2{
+ position: absolute;
+
+}
+.cloud1{
+ position: absolute;
+ top: 55px;
+ right:  400px;
+
+}
+
+.footer-link{
+ color: #11999E;
+}
+
+.profile{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  color: grey;
+   width: 6%;
+   padding-bottom: 5%;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.profile-image{
+  border-radius: 100%;
+
+}
+
+.code-image{
+  width: 30%;
+  border-radius: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.football-image{
+  width: 34%;
+  float: right;
+  margin-right: 0px;
+
+}
+
+.last-heading{
+  font-size: 1.7rem;
+  font-weight: bold;
+}
+
+.button{
+  color: white;
+  background-color: #66BFBF;
+  border-radius: 10px;
+  border: 5px;
+  padding: 1%;
+  width: 15%;
+  margin: 3% auto 4% auto;
+}
+
+.button:hover{
+  background-color: #30E3CB;
+  border-radius: 20px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 40px;
+  padding-bottom: 20px;
+
+
+}
+
+.last-para{
+  color: #EAF6F6;
+}
+
+.footer-link{
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.footer-link:hover{
+  color: white;
+}
